@@ -8,5 +8,6 @@
     "boot": "auto",
     "options": {},
     "schema": {},
-    "image": "ghcr.io/arielwien123/switchbee_ws"
+    "image": "ghcr.io/arielwien123/switchbee_ws:latest"
+
 }
